@@ -6,23 +6,23 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Smooch Sans', sans-serif;
 	color: #202030;
-	background-color: #f8f8fc;
+	background-color: #8080D8;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #FDE0FF;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #F6E6EC;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #E8CDD2;
 }
 
 /* Styles for lists in the document */
@@ -48,4 +48,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.myname {
+	font-family: zooja-pro, sans-serif;
 }
